@@ -1,0 +1,8 @@
+.main-content{
+	border: 0.07em solid hsl(0, 0%, 71%);
+	border-radius: 5px;
+}
+
+.main-content-space{
+	margin: 20px;
+}
